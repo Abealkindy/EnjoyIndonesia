@@ -34,3 +34,5 @@ public class ListNews {
         return imageNews;
     }
 }
+
+
